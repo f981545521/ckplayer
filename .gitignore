@@ -1,0 +1,38 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.keep
+
+/.settings
+/target
+/.classpath
+/.project
+/.keep
+.idea/
+*.iml
+out/
+.DS_Store
+*.orig
+
+*/.settings
+*/target
+*/.classpath
+*/.project
+*/.idea/
+*/*.iml
+*/out/
+*/.DS_Store
+*/.keep
+__MACOSX/*
+
+# IntelliJ
+*.iml
+.idea/
+
+# Maven
+target/
+out/
+
+# Mac
+.DS_Store
